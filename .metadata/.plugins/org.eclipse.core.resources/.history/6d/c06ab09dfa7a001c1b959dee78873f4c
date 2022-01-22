@@ -1,0 +1,7 @@
+package alternative;
+
+public class IDataBase {
+	
+	public String DatabaseName(String data);
+
+}

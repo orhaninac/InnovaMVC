@@ -1,0 +1,10 @@
+package enumqualifier;
+
+public class MySql implements IDataBase{
+	
+	@Override
+	public String getDataBaseType(String data) {
+		return data+" Mysql";
+	}
+	
+}

@@ -1,0 +1,5 @@
+package enumqualifier;
+
+public interface IDataBase {
+	
+}

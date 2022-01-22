@@ -1,0 +1,10 @@
+package Qualifier;
+
+public class MySql {
+	
+	@Override
+	public String DataBaseType(String data) {
+		return "Varsayılan mssql";
+	}
+	
+}

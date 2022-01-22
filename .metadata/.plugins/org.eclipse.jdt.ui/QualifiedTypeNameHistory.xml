@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="javax.enterprise.inject.Alternative"/>
+    <fullyQualifiedTypeName name="javax.inject.Inject"/>
+    <fullyQualifiedTypeName name="javax.enterprise.inject.Default"/>
+    <fullyQualifiedTypeName name="javax.interceptor.Interceptor"/>
+    <fullyQualifiedTypeName name="javax.interceptor.AroundInvoke"/>
+    <fullyQualifiedTypeName name="javax.interceptor.InvocationContext"/>
+    <fullyQualifiedTypeName name="javax.enterprise.context.ApplicationScoped"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,15 @@
+package alternative;
+
+import javax.inject.Inject;
+
+public class DataBaseManager {
+	
+	@SuppressWarnings("cdi-ambiguous-dependency")
+	@Inject
+	private IDataBase iDataBase;
+	
+	public String getDatabaseName() {
+		return iDataBase.DatabaseType("Mevcut Database: ");
+	}
+	
+}

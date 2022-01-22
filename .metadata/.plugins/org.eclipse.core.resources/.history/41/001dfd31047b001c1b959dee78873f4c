@@ -1,0 +1,11 @@
+package Qualifier;
+
+@QualifierCokluSecim
+public class PostgreSql implements IDataBase {
+	
+	@Override
+	public String DataBaseType(String data) {
+		return "Opsiyonel mssql";
+	}
+	
+}

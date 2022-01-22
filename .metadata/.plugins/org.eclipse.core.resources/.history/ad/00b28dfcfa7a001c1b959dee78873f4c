@@ -1,0 +1,10 @@
+package alternative;
+
+public class MySql {
+	@Override
+	public String DatabaseName(String data) {
+		
+		return data + "Mssql";
+	}
+	
+}

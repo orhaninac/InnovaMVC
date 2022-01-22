@@ -1,0 +1,6 @@
+package enumqualifier;
+
+public interface IDataBase {
+	
+	public String getDataBaseType(String data);
+}

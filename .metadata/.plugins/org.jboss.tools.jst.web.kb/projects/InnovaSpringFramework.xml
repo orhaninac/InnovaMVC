@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/servlet/api/main/jboss-servlet-api_4.0_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-credential-source-deprecated-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/enterprise/api/main/jakarta.enterprise.cdi-api-2.0.2.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-credential-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-mechanism-http-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/arquillian/container/arquillian-container-spi/1.1.2.Final-wildfly-1/arquillian-container-spi-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-mechanism-digest-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-gs2-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/junit/junit/4.11/junit-4.11.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/arquillian/container/arquillian-container-test-impl-base/1.1.2.Final-wildfly-1/arquillian-container-test-impl-base-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-x500-cert-util-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-auth-util-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/arquillian/core/arquillian-core-api/1.1.2.Final-wildfly-1/arquillian-core-api-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-json-util-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/hibernate/hibernate-validator-annotation-processor/5.1.3.Final/hibernate-validator-annotation-processor-5.1.3.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/arquillian/config/arquillian-config-api/1.1.2.Final-wildfly-1/arquillian-config-api-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-jaspi-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-digest-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/arquillian/test/arquillian-test-spi/1.1.2.Final-wildfly-1/arquillian-test-spi-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/xml/ws/api/main/jboss-jaxws-api_2.3_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/com/fasterxml/classmate/1.0.0/classmate-1.0.0.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/picketbox/main/picketbox-5.0.3.Final-redhat-00007.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-x500-cert-acme-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-x500-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-anonymous-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-auth-server-http-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/batch/api/main/jboss-batch-api_1.0_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-entity-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/arquillian/junit/arquillian-junit-core/1.1.2.Final-wildfly-1/arquillian-junit-core-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-mechanism-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-realm-ldap-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-multipart-provider/main/resteasy-multipart-provider-3.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-gssapi-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/el/api/main/jboss-el-api_3.0_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-external-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/spec/javax/annotation/jboss-annotations-api_1.2_spec/1.0.0.Final/jboss-annotations-api_1.2_spec-1.0.0.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxb-provider/main/resteasy-jaxb-provider-3.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-asn1-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/arquillian/container/arquillian-container-impl-base/1.1.2.Final-wildfly-1/arquillian-container-impl-base-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-auth-util-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-audit-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-auth-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-digest-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/arquillian/core/arquillian-core-spi/1.1.2.Final-wildfly-1/arquillian-core-spi-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/jboss/ejb3/main/jboss-ejb3-ext-api-2.3.0.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/resource/api/main/jboss-connector-api_1.7_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/xml/soap/api/main/jboss-saaj-api_1.4_spec-1.0.2.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/jws/api/main/jsr181-api-1.0-MR1.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-basic-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/shrinkwrap/shrinkwrap-spi/1.1.2/shrinkwrap-spi-1.1.2.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-spnego-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/faces/api/main/jboss-jsf-api_2.3_spec-3.0.0.SP04.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/ws/rs/api/main/jboss-jaxrs-api_2.1_spec-2.0.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-credential-source-impl-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-mechanism-oauth2-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-x500-deprecated-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-password-impl-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-mechanism-scram-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-api-base/2.0.0-alpha-3/shrinkwrap-descriptors-api-base-2.0.0-alpha-3.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-auth-server-deprecated-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/hibernate/validator/main/hibernate-validator-6.0.22.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/hibernate/hibernate-jpamodelgen/4.3.5.Final/hibernate-jpamodelgen-4.3.5.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/security/auth/message/api/main/jboss-jaspi-api_1.1_spec-2.0.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/xml/rpc/api/main/jboss-jaxrpc-api_1.1_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-encryption-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-plain-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/servlet/jsp/api/main/jboss-jsp-api_2.3_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/hibernate/hibernate-validator/5.1.3.Final/hibernate-validator-5.1.3.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/activation/api/main/jakarta.activation-1.2.2.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-security-manager-action-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-util-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-otp-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-security-manager-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-client-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/javax/enterprise/cdi-api/1.2/cdi-api-1.2.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/interceptor/api/main/jboss-interceptors-api_1.2_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-keystore-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-x500-cert-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-x500-principal-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-auth-server-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/arquillian/test/arquillian-test-impl-base/1.1.2.Final-wildfly-1/arquillian-test-impl-base-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/spec/javax/ejb/jboss-ejb-api_3.2_spec/1.0.0.Final/jboss-ejb-api_3.2_spec-1.0.0.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/resteasy/jaxrs-api/3.0.10.Final/jaxrs-api-3.0.10.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/arquillian/container/arquillian-container-test-api/1.1.2.Final-wildfly-1/arquillian-container-test-api-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/shrinkwrap/shrinkwrap-api/1.1.2/shrinkwrap-api-1.1.2.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/xml/bind/api/main/jboss-jaxb-api_2.3_spec-2.0.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-base-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-util-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/websocket/api/main/jboss-websocket-api_1.1_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-localuser-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/arquillian/junit/arquillian-junit-container/1.1.2.Final-wildfly-1/arquillian-junit-container-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/security/jacc/api/main/jboss-jacc-api_1.5_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/jboss/logging/main/jboss-logging-3.4.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/validation/api/main/jakarta.validation-api-2.0.2.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/jms/api/main/jboss-jms-api_2.0_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-deprecated-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-external-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/jboss/as/controller-client/main/wildfly-controller-client-15.0.0.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-provider-util-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/servlet/jstl/api/main/taglibs-standard-compat-1.2.6-RC1.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/meta-ýnf/c-1_0.tld" project="InnovaSpringFramework"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/meta-ýnf/fmt-1_0.tld" project="InnovaSpringFramework"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/meta-ýnf/sql-1_0.tld" project="InnovaSpringFramework"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/meta-ýnf/x-1_0.tld" project="InnovaSpringFramework"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/picketbox/main/picketbox-commons-1.0.0.final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-oauth2-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/spec/javax/faces/jboss-jsf-api_2.2_spec/2.2.8/jboss-jsf-api_2.2_spec-2.2.8.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-deprecated-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/json/api/main/jakarta.json-api-1.1.6.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/transaction/api/main/jboss-transaction-api_1.3_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/enterprise/concurrent/api/main/jboss-concurrency-api_1.0_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/arquillian/protocol/arquillian-protocol-servlet/1.1.2.Final-wildfly-1/arquillian-protocol-servlet-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/annotation/api/main/jboss-annotations-api_1.3_spec-2.0.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-spi/2.0.0-alpha-3/shrinkwrap-descriptors-spi-2.0.0-alpha-3.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/servlet/jstl/api/main/taglibs-standard-impl-1.2.6-RC1.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-ýnf/c-1_0-rt.tld" project="InnovaSpringFramework"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-ýnf/c-1_1.tld" project="InnovaSpringFramework"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-ýnf/c.tld" project="InnovaSpringFramework"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-ýnf/fmt-1_0-rt.tld" project="InnovaSpringFramework"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-ýnf/fmt.tld" project="InnovaSpringFramework"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-ýnf/fn.tld" project="InnovaSpringFramework"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-ýnf/permittedtaglibs.tld" project="InnovaSpringFramework"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-ýnf/scriptfree.tld" project="InnovaSpringFramework"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-ýnf/sql-1_0-rt.tld" project="InnovaSpringFramework"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-ýnf/sql.tld" project="InnovaSpringFramework"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-ýnf/x-1_0-rt.tld" project="InnovaSpringFramework"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-ýnf/x.tld" project="InnovaSpringFramework"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-bearer-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-ssl-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/arquillian/container/arquillian-container-test-spi/1.1.2.Final-wildfly-1/arquillian-container-test-spi-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/ejb/api/main/jboss-ejb-api_3.2_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/picketbox/main/picketbox-infinispan-5.0.3.Final-redhat-00007.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-digest-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/common/main/wildfly-common-1.5.4.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-jacc-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/inject/api/main/jakarta.inject-api-1.0.3.jar"/>
+  <path value="/InnovaSpringFramework/src/main/webapp/WEB-INF/faces-config.xml">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/WEB-INF/faces-config.xml" project="InnovaSpringFramework"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-auth-server-sasl-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/management/j2ee/api/main/jboss-j2eemgmt-api_1.1_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-client-3.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/arquillian/config/arquillian-config-impl-base/1.1.2.Final-wildfly-1/arquillian-config-impl-base-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/persistence/api/main/jakarta.persistence-api-2.2.3.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/wsdl4j/api/main/wsdl4j-1.6.3.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-mechanism-gssapi-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-permission-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-sso-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-credential-store-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/servlet/jstl/api/main/taglibs-standard-spec-1.2.6-RC1.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-realm-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-jaxrs-3.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/javax/mail/api/main/jakarta.mail-1.6.5.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/arquillian/test/arquillian-test-api/1.1.2.Final-wildfly-1/arquillian-test-api-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/arquillian/core/arquillian-core-impl-base/1.1.2.Final-wildfly-1/arquillian-core-impl-base-1.1.2.Final-wildfly-1.jar"/>
+  <path value="C:/Users/orhan/.m2/repository/org/jboss/shrinkwrap/shrinkwrap-impl-base/1.1.2/shrinkwrap-impl-base-1.1.2.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-realm-jdbc-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-realm-token-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-cert-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-form-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-scram-1.15.1.Final.jar"/>
+  <path value="C:/Users/orhan/OneDrive/Masaüstü/wildfly-23.0.0.Final/modules/system/layers/base/org/jboss/dmr/main/jboss-dmr-1.5.1.Final.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource name="%1;" path="%0"/>
+   <linked-resource name="%3;" path="%2"/>
+   <linked-resource declaration="true" name="%4;" path="%3"/>
+   <linked-resource name="%6;" path="%5"/>
+   <linked-resource name="%8;" path="%7"/>
+   <linked-resource name="%6;" path="%9"/>
+   <linked-resource name="%6;" path="%10"/>
+   <linked-resource name="%12;" path="%11"/>
+   <linked-resource name="%6;" path="%13"/>
+   <linked-resource declaration="true" name="%14;" path="%12"/>
+   <linked-resource name="%16;%17;" path="%15"/>
+   <linked-resource name="%3;" path="%18"/>
+  </core>
+  <core validator-id="jboss.jsf.core"/>
+  <core validator-id="batch-verification"/>
+  <el>
+   <linked-el length="20" name="%19" offset="4087" path="%20"/>
+   <linked-el length="20" name="%19" offset="3778" path="%20"/>
+   <linked-el length="21" name="%21" offset="8688" path="%20"/>
+   <linked-el length="21" name="%22" offset="8688" path="%20"/>
+   <linked-el length="25" name="%23" offset="613" path="%24"/>
+   <linked-el length="20" name="%25" offset="4087" path="%20"/>
+   <linked-el length="21" name="%25" offset="12455" path="%20"/>
+   <linked-el length="26" name="%25" offset="10216" path="%20"/>
+   <linked-el length="21" name="%25" offset="8848" path="%20"/>
+   <linked-el length="20" name="%25" offset="3778" path="%20"/>
+   <linked-el length="31" name="%25" offset="9446" path="%20"/>
+   <linked-el length="31" name="%26" offset="9446" path="%20"/>
+   <linked-el length="31" name="%27" offset="9446" path="%20"/>
+   <linked-el length="21" name="%28" offset="12455" path="%20"/>
+   <linked-el length="21" name="%28" offset="8848" path="%20"/>
+   <linked-el length="31" name="%29" offset="9446" path="%20"/>
+   <linked-el length="26" name="%30" offset="10216" path="%20"/>
+   <linked-el length="25" name="%31" offset="613" path="%24"/>
+   <linked-el length="20" name="%32" offset="4087" path="%20"/>
+   <linked-el length="20" name="%32" offset="3778" path="%20"/>
+   <linked-el length="21" name="%33" offset="12455" path="%20"/>
+   <linked-el length="21" name="%33" offset="8848" path="%20"/>
+   <linked-el length="26" name="%34" offset="10216" path="%20"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias
+   path="/InnovaSpringFramework/src/main/java/Qualifier/QualifierManager.java" value="%3"/>
+  <alias
+   path="/InnovaSpringFramework/src/main/java/alternative/MySql.java" value="%9"/>
+  <alias
+   path="/InnovaSpringFramework/src/main/java/Qualifier/IDataBase.java" value="%18"/>
+  <alias
+   path="/InnovaSpringFramework/src/main/java/Qualifier/MySql.java" value="%16"/>
+  <alias path="project" value="%22"/>
+  <alias
+   path="/InnovaSpringFramework/src/main/java/Qualifier/Mssql.java" value="%2"/>
+  <alias
+   path="/InnovaSpringFramework/src/main/java/alternative/PostgreSql.java" value="%13"/>
+  <alias path="compuer.ComputerName" value="%23"/>
+  <alias
+   path="/InnovaSpringFramework/src/main/java/Interceptor/YolKesiciMethod.java" value="%1"/>
+  <alias path="version.war" value="%28"/>
+  <alias path="version.surefire" value="%30"/>
+  <alias path="compuer" value="%31"/>
+  <alias
+   path="/InnovaSpringFramework/src/main/java/Interceptor/YolKesiciInterface.java" value="%0"/>
+  <alias
+   path="/InnovaSpringFramework/src/main/java/enumqualifier/QualifierManager.java" value="%8"/>
+  <alias
+   path="/InnovaSpringFramework/src/main/java/enumqualifier/IDataBase.java" value="%7"/>
+  <alias path="interceptorAOP" value="%14"/>
+  <alias path="version.jboss.bom" value="%19"/>
+  <alias path="/InnovaSpringFramework/src/main/webapp/_00_CDli_DI.xhtml" value="%24"/>
+  <alias
+   path="/InnovaSpringFramework/src/main/java/alternative/DataBaseManager.java" value="%6"/>
+  <alias path="/InnovaSpringFramework/pom.xml" value="%20"/>
+  <alias
+   path="/InnovaSpringFramework/src/main/java/Qualifier/QualifierCokluSecim.java" value="%15"/>
+  <alias
+   path="/InnovaSpringFramework/src/main/java/Interceptor/Login.java" value="%11"/>
+  <alias path="project.artifactId" value="%21"/>
+  <alias
+   path="/InnovaSpringFramework/src/main/java/Qualifier/PostgreSql.java" value="%17"/>
+  <alias
+   path="/InnovaSpringFramework/src/main/java/alternative/IDataBase.java" value="%5"/>
+  <alias path="version" value="%25"/>
+  <alias
+   path="/InnovaSpringFramework/src/main/java/alternative/Mssql.java" value="%10"/>
+  <alias path="version.wildfly.maven.plugin" value="%26"/>
+  <alias path="version.wildfly.maven" value="%27"/>
+  <alias path="version.wildfly" value="%29"/>
+  <alias path="version.jboss" value="%32"/>
+  <alias path="version.war.plugin" value="%33"/>
+  <alias path="version.surefire.plugin" value="%34"/>
+  <alias
+   path="/InnovaSpringFramework/src/main/java/Interceptor/AOPBean.java" value="%12"/>
+  <alias path="qualiferCDI" value="%4"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsf/core">
+   <prefix>f</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsf/html">
+   <prefix>h</prefix>
+  </uri>
+ </uris>
+</kb-project>

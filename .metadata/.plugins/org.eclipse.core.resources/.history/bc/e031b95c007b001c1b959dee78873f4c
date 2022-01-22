@@ -1,0 +1,10 @@
+package Qualifier;
+
+public class PostgreSql implements IDataBase {
+	
+	@Override
+	public String DataBaseType(String data) {
+		return "Varsayılan mssql";
+	}
+	
+}

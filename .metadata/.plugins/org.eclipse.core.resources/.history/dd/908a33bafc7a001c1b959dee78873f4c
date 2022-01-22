@@ -1,0 +1,11 @@
+package enumqualifier;
+
+public class DefaultDataBase {
+	
+	@Override
+	public String getDataBasetype(String data) {
+		// TODO Auto-generated method stub
+		return "Varsayılan Database MySql";
+	}
+	
+}

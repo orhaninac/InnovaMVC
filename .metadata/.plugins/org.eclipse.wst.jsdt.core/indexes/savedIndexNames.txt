@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\PatikaDev-Innova\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3563836454.index
+1937174998.index
+1046768769.index
+2918802535.index
+1083004112.index
+726046505.index

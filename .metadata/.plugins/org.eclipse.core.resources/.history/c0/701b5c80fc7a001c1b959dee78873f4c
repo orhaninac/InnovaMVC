@@ -1,0 +1,14 @@
+package alternative;
+
+import javax.inject.Inject;
+
+public class DataBaseManager {
+	
+	@Inject
+	private IDataBase iDataBase;
+	
+	public String getDatabaseName() {
+		return iDataBase.DatabaseType("Current Database: ");
+	}
+	
+}

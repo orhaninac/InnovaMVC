@@ -1,0 +1,13 @@
+package alternative;
+
+import javax.enterprise.inject.Alternative;
+
+@Alternative
+public class MySql {
+	@Override
+	public String DatabaseName(String data) {
+		
+		return data + "Mssql";
+	}
+	
+}

@@ -1,0 +1,10 @@
+package Qualifier;
+
+public class PostgreSql {
+	
+	@Override
+	public String DataBaseType(String data) {
+		return "Varsayılan mssql";
+	}
+	
+}

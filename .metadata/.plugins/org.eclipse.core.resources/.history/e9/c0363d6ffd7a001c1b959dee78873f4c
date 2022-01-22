@@ -1,0 +1,10 @@
+package enumqualifier;
+
+public class Mssql implements IDataBase {
+	
+	@Override
+	public String getDataBasetype(String dataBase) {
+		return dataBase + "Varsayılan Database MySql";
+	}
+	
+}
